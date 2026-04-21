@@ -32,7 +32,7 @@
   transform: translate(-50%, -50%);
   width: 115%;
   height: 115%;
-  background-image: url('../public/assets/shadow.png');
+  background-image: url('/assets/shadow.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -250,14 +250,14 @@
   }
 }
 #calender-highlight{
-   background-image: url("../public/assets/highlight-card.png");
+   background-image: url("/assets/highlight-card.png");
   background-repeat: no-repeat;
   height: 28vh;
   /* width: 73%;; */
   background-size: contain;
 }
 #calender-img{
-  background-image: url("../public/assets/calender.png");
+  background-image: url("/assets/calender.png");
   background-repeat: no-repeat;
   height: 28vh;
 /* width: 73%;; */
@@ -268,7 +268,7 @@
   height: 100vh;
 }
 #dots-png{
-  background-image: url('../public/assets/Dots.png');
+  background-image: url('/assets/Dots.png');
   background-color: white;
   height: auto;
 }
